@@ -1,324 +1,447 @@
 [
   {
-    adult: false,
-    backdrop_path: '/jvTeRgjFsp66xj8SWxhr7O2J4ud.jpg',
-    genre_ids: [ 10751, 16, 35 ],
-    id: 456,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Simpsons',
-    overview: 'Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.',
-    popularity: 113.7566,
-    poster_path: '/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg',
-    first_air_date: '1989-12-17',
-    name: 'The Simpsons',
-    vote_average: 8.012,
-    vote_count: 10437
+    "adult": false,
+    "backdrop_path": "/jvTeRgjFsp66xj8SWxhr7O2J4ud.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      35
+    ],
+    "id": 456,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Simpsons",
+    "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+    "popularity": 113.7566,
+    "poster_path": "/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+    "first_air_date": "1989-12-17",
+    "name": "The Simpsons",
+    "vote_average": 8.012,
+    "vote_count": 10437
   },
   {
-    adult: false,
-    backdrop_path: '/vDqCoaMU5FUAuUs0EvL4OAUCxJk.jpg',
-    genre_ids: [ 10751, 18 ],
-    id: 210865,
-    origin_country: [ 'TR' ],
-    original_language: 'tr',
-    original_name: 'Yalı Çapkını',
-    overview: 'A young girl is forced to marry a rich groom. The groom is not only rich, but also allows himself to live without any restrictions or obligations. Will married life change his habits? And how will such a man be accepted by a good-hearted wife?',
-    popularity: 54.0684,
-    poster_path: '/yTHaFClgAktpHwlAJzZGftep2ok.jpg',
-    first_air_date: '2022-09-23',
-    name: 'Golden Boy',
-    vote_average: 8.3,
-    vote_count: 87
+    "adult": false,
+    "backdrop_path": "/vDqCoaMU5FUAuUs0EvL4OAUCxJk.jpg",
+    "genre_ids": [
+      10751,
+      18
+    ],
+    "id": 210865,
+    "origin_country": [
+      "TR"
+    ],
+    "original_language": "tr",
+    "original_name": "Yalı Çapkını",
+    "overview": "A young girl is forced to marry a rich groom. The groom is not only rich, but also allows himself to live without any restrictions or obligations. Will married life change his habits? And how will such a man be accepted by a good-hearted wife?",
+    "popularity": 54.0684,
+    "poster_path": "/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
+    "first_air_date": "2022-09-23",
+    "name": "Golden Boy",
+    "vote_average": 8.3,
+    "vote_count": 87
   },
   {
-    adult: false,
-    backdrop_path: '/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg',
-    genre_ids: [ 10759, 16, 35, 10765, 10762, 10751 ],
-    id: 65733,
-    origin_country: [ 'JP' ],
-    original_language: 'ja',
-    original_name: 'ドラえもん',
-    overview: "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
-    popularity: 51.0382,
-    poster_path: '/9ZN1P32SHviL3SV51qLivxycvcx.jpg',
-    first_air_date: '2005-04-22',
-    name: 'Doraemon',
-    vote_average: 8.028,
-    vote_count: 197
+    "adult": false,
+    "backdrop_path": "/hqqdoXdrp4o8ZqADHVYIXwBkn3Y.jpg",
+    "genre_ids": [
+      10759,
+      16,
+      35,
+      10765,
+      10762,
+      10751
+    ],
+    "id": 65733,
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_name": "ドラえもん",
+    "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+    "popularity": 51.0382,
+    "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+    "first_air_date": "2005-04-22",
+    "name": "Doraemon",
+    "vote_average": 8.028,
+    "vote_count": 197
   },
   {
-    adult: false,
-    backdrop_path: '/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg',
-    genre_ids: [ 35, 10751, 18 ],
-    id: 71728,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Young Sheldon',
-    overview: 'The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.',
-    popularity: 41.3665,
-    poster_path: '/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg',
-    first_air_date: '2017-09-25',
-    name: 'Young Sheldon',
-    vote_average: 8.05,
-    vote_count: 2826
+    "adult": false,
+    "backdrop_path": "/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "id": 71728,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Young Sheldon",
+    "overview": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+    "popularity": 41.3665,
+    "poster_path": "/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+    "first_air_date": "2017-09-25",
+    "name": "Young Sheldon",
+    "vote_average": 8.05,
+    "vote_count": 2826
   },
   {
-    adult: false,
-    backdrop_path: '/vr2pasVUtMvpsWW8BhFBPbYiOl3.jpg',
-    genre_ids: [ 10751, 35 ],
-    id: 49009,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Goldbergs',
-    overview: "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '80s. For geeky 11-year old Adam these were his wonder years and he faced them armed with a video camera to capture all the crazy. The Goldbergs are a loving family like any other, just with a lot more yelling.",
-    popularity: 35.2966,
-    poster_path: '/3aQipkhSCHUmaHjImqEqT80k6GP.jpg',
-    first_air_date: '2013-09-24',
-    name: 'The Goldbergs',
-    vote_average: 7.475,
-    vote_count: 356
+    "adult": false,
+    "backdrop_path": "/vr2pasVUtMvpsWW8BhFBPbYiOl3.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "id": 49009,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Goldbergs",
+    "overview": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '80s. For geeky 11-year old Adam these were his wonder years and he faced them armed with a video camera to capture all the crazy. The Goldbergs are a loving family like any other, just with a lot more yelling.",
+    "popularity": 35.2966,
+    "poster_path": "/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+    "first_air_date": "2013-09-24",
+    "name": "The Goldbergs",
+    "vote_average": 7.475,
+    "vote_count": 356
   },
   {
-    adult: false,
-    backdrop_path: '/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg',
-    genre_ids: [ 35, 10751 ],
-    id: 3452,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Frasier',
-    overview: 'After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his policeman father gets shot in the hip on duty.',
-    popularity: 37.4223,
-    poster_path: '/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg',
-    first_air_date: '1993-09-16',
-    name: 'Frasier',
-    vote_average: 7.7,
-    vote_count: 831
+    "adult": false,
+    "backdrop_path": "/4FqKFhF4BrNsrK3EdRpVJofVqCp.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 3452,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Frasier",
+    "overview": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his policeman father gets shot in the hip on duty.",
+    "popularity": 37.4223,
+    "poster_path": "/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+    "first_air_date": "1993-09-16",
+    "name": "Frasier",
+    "vote_average": 7.7,
+    "vote_count": 831
   },
   {
-    adult: false,
-    backdrop_path: '/zx574JjeDSqd8gpkEi9AeU75adK.jpg',
-    genre_ids: [ 10764, 10751 ],
-    id: 1508,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Dancing with the Stars',
-    overview: 'The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.',
-    popularity: 31.9562,
-    poster_path: '/5ropLAggzraCNoT6QPltb9lxeP3.jpg',
-    first_air_date: '2005-06-01',
-    name: 'Dancing with the Stars',
-    vote_average: 6.024,
-    vote_count: 123
+    "adult": false,
+    "backdrop_path": "/zx574JjeDSqd8gpkEi9AeU75adK.jpg",
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "id": 1508,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dancing with the Stars",
+    "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+    "popularity": 31.9562,
+    "poster_path": "/5ropLAggzraCNoT6QPltb9lxeP3.jpg",
+    "first_air_date": "2005-06-01",
+    "name": "Dancing with the Stars",
+    "vote_average": 6.024,
+    "vote_count": 123
   },
   {
-    adult: false,
-    backdrop_path: '/5Z40OJgNeedcAgqPRTGQzlk17Mv.jpg',
-    genre_ids: [ 10766, 18, 10751 ],
-    id: 40,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Dallas',
-    overview: `The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked "Who shot J.R.?" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.`,
-    popularity: 32.1473,
-    poster_path: '/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg',
-    first_air_date: '1978-04-02',
-    name: 'Dallas',
-    vote_average: 6.835,
-    vote_count: 227
+    "adult": false,
+    "backdrop_path": "/5Z40OJgNeedcAgqPRTGQzlk17Mv.jpg",
+    "genre_ids": [
+      10766,
+      18,
+      10751
+    ],
+    "id": 40,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dallas",
+    "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+    "popularity": 32.1473,
+    "poster_path": "/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+    "first_air_date": "1978-04-02",
+    "name": "Dallas",
+    "vote_average": 6.835,
+    "vote_count": 227
   },
   {
-    adult: false,
-    backdrop_path: '/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg',
-    genre_ids: [ 16, 10759, 35, 10751, 10765 ],
-    id: 45140,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Teen Titans Go!',
-    overview: 'Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!',
-    popularity: 30.7891,
-    poster_path: '/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg',
-    first_air_date: '2013-04-23',
-    name: 'Teen Titans Go!',
-    vote_average: 6.482,
-    vote_count: 676
+    "adult": false,
+    "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+    "genre_ids": [
+      16,
+      10759,
+      35,
+      10751,
+      10765
+    ],
+    "id": 45140,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Teen Titans Go!",
+    "overview": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+    "popularity": 30.7891,
+    "poster_path": "/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+    "first_air_date": "2013-04-23",
+    "name": "Teen Titans Go!",
+    "vote_average": 6.482,
+    "vote_count": 676
   },
   {
-    adult: false,
-    backdrop_path: '/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg',
-    genre_ids: [ 18, 10751, 10759 ],
-    id: 85077,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Chosen',
-    overview: 'The life of Christ through the eyes of those who encountered him.',
-    popularity: 30.5087,
-    poster_path: '/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg',
-    first_air_date: '2019-04-21',
-    name: 'The Chosen',
-    vote_average: 8.693,
-    vote_count: 681
+    "adult": false,
+    "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.jpg",
+    "genre_ids": [
+      18,
+      10751,
+      10759
+    ],
+    "id": 85077,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Chosen",
+    "overview": "The life of Christ through the eyes of those who encountered him.",
+    "popularity": 30.5087,
+    "poster_path": "/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+    "first_air_date": "2019-04-21",
+    "name": "The Chosen",
+    "vote_average": 8.693,
+    "vote_count": 681
   },
   {
-    adult: false,
-    backdrop_path: '/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg',
-    genre_ids: [ 35, 10751 ],
-    id: 106,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Andy Griffith Show',
-    overview: `The Andy Griffith Show is an American sitcom first televised on CBS between October 3, 1960 and April 1, 1968. Andy Griffith portrays the widowed sheriff of the fictional small community of Mayberry, North Carolina. His life is complicated by an inept, but well-meaning deputy, Barney Fife, a spinster aunt and housekeeper, Aunt Bee, and a precocious young son, Opie. Local ne'er-do-wells, bumbling pals, and temperamental girlfriends further complicate his life. Andy Griffith stated in a Today Show interview, with respect to the time period of the show: "Well, though we never said it, and though it was shot in the '60s, it had a feeling of the '30s. It was when we were doing it, of a time gone by."\n` +
-      '\n' +
-      `The series never placed lower than seventh in the Nielsen ratings and ended its final season at number one. It has been ranked by TV Guide as the 9th-best show in American television history. Though neither Griffith nor the show won awards during its eight-season run, series co-stars Knotts and Bavier accumulated a combined total of six Emmy Awards. The show, a semi-spin-off from an episode of The Danny Thomas Show titled "Danny Meets Andy Griffith", spawned its own spin-off series, Gomer Pyle, U.S.M.C., a sequel series, Mayberry R.F.D., and a reunion telemovie, Return to Mayberry. The show's enduring popularity has generated a good deal of show-related merchandise. Reruns currently air on TV Land, and the complete series is available on DVD. All eight seasons are also now available by streaming video services such as Netflix.`,
-    popularity: 28.8046,
-    poster_path: '/smOam7qXPnqlfDlMx4I0UxK5ULB.jpg',
-    first_air_date: '1960-10-03',
-    name: 'The Andy Griffith Show',
-    vote_average: 7.6,
-    vote_count: 154
+    "adult": false,
+    "backdrop_path": "/szx8lk5wIv1jU3NpMBZVjjs96Fi.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 106,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Andy Griffith Show",
+    "overview": null,
+    "popularity": 28.8046,
+    "poster_path": "/smOam7qXPnqlfDlMx4I0UxK5ULB.jpg",
+    "first_air_date": "1960-10-03",
+    "name": "The Andy Griffith Show",
+    "vote_average": 7.6,
+    "vote_count": 154
   },
   {
-    adult: false,
-    backdrop_path: '/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg',
-    genre_ids: [ 16, 35, 10751 ],
-    id: 2122,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'King of the Hill',
-    overview: 'Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.',
-    popularity: 29.5194,
-    poster_path: '/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg',
-    first_air_date: '1997-01-12',
-    name: 'King of the Hill',
-    vote_average: 7.365,
-    vote_count: 628
+    "adult": false,
+    "backdrop_path": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 2122,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "King of the Hill",
+    "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+    "popularity": 29.5194,
+    "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+    "first_air_date": "1997-01-12",
+    "name": "King of the Hill",
+    "vote_average": 7.365,
+    "vote_count": 628
   },
   {
-    adult: false,
-    backdrop_path: '/61OxoiBHvGFOB4gufYfypHyCbI4.jpg',
-    genre_ids: [ 37, 10759, 18, 10751 ],
-    id: 1018,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Bonanza',
-    overview: 'The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.',
-    popularity: 29.3515,
-    poster_path: '/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg',
-    first_air_date: '1959-09-12',
-    name: 'Bonanza',
-    vote_average: 7.516,
-    vote_count: 457
+    "adult": false,
+    "backdrop_path": "/61OxoiBHvGFOB4gufYfypHyCbI4.jpg",
+    "genre_ids": [
+      37,
+      10759,
+      18,
+      10751
+    ],
+    "id": 1018,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bonanza",
+    "overview": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surrounding community.",
+    "popularity": 29.3515,
+    "poster_path": "/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+    "first_air_date": "1959-09-12",
+    "name": "Bonanza",
+    "vote_average": 7.516,
+    "vote_count": 457
   },
   {
-    adult: false,
-    backdrop_path: '/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg',
-    genre_ids: [ 16, 35, 10751, 10765 ],
-    id: 1877,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Phineas and Ferb',
-    overview: 'Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.',
-    popularity: 29.127,
-    poster_path: '/g6TidT7be954rrzPPBTIXkSmfXj.jpg',
-    first_air_date: '2007-08-17',
-    name: 'Phineas and Ferb',
-    vote_average: 7.894,
-    vote_count: 959
+    "adult": false,
+    "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      10765
+    ],
+    "id": 1877,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Phineas and Ferb",
+    "overview": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their controlling sister, Candace, who tries to bust them. Meanwhile, their pet platypus plots against evil Dr. Doofenshmirtz.",
+    "popularity": 29.127,
+    "poster_path": "/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+    "first_air_date": "2007-08-17",
+    "name": "Phineas and Ferb",
+    "vote_average": 7.894,
+    "vote_count": 959
   },
   {
-    adult: false,
-    backdrop_path: '/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg',
-    genre_ids: [ 10751, 16, 10762, 35 ],
-    id: 3022,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Rugrats',
-    overview: "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
-    popularity: 27.5364,
-    poster_path: '/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg',
-    first_air_date: '1991-08-11',
-    name: 'Rugrats',
-    vote_average: 7.611,
-    vote_count: 727
+    "adult": false,
+    "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      10762,
+      35
+    ],
+    "id": 3022,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Rugrats",
+    "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+    "popularity": 27.5364,
+    "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+    "first_air_date": "1991-08-11",
+    "name": "Rugrats",
+    "vote_average": 7.611,
+    "vote_count": 727
   },
   {
-    adult: false,
-    backdrop_path: '/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg',
-    genre_ids: [ 10751, 18, 35 ],
-    id: 14929,
-    origin_country: [ 'CA' ],
-    original_language: 'en',
-    original_name: 'Heartland',
-    overview: "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
-    popularity: 27.8768,
-    poster_path: '/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg',
-    first_air_date: '2007-10-14',
-    name: 'Heartland',
-    vote_average: 8.3,
-    vote_count: 568
+    "adult": false,
+    "backdrop_path": "/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+    "genre_ids": [
+      10751,
+      18,
+      35
+    ],
+    "id": 14929,
+    "origin_country": [
+      "CA"
+    ],
+    "original_language": "en",
+    "original_name": "Heartland",
+    "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+    "popularity": 27.8768,
+    "poster_path": "/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+    "first_air_date": "2007-10-14",
+    "name": "Heartland",
+    "vote_average": 8.3,
+    "vote_count": 568
   },
   {
-    adult: false,
-    backdrop_path: '/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg',
-    genre_ids: [ 16, 10751, 10765, 35 ],
-    id: 37606,
-    origin_country: [ 'DE', 'IE', 'GB', 'US' ],
-    original_language: 'en',
-    original_name: 'The Amazing World of Gumball',
-    overview: 'The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.',
-    popularity: 26.5612,
-    poster_path: '/VYnnyA2hyxi3VUPgCA71mMtt69.jpg',
-    first_air_date: '2011-05-03',
-    name: 'The Amazing World of Gumball',
-    vote_average: 8.5,
-    vote_count: 1651
+    "adult": false,
+    "backdrop_path": "/3PCVo8Wikg4wG6dqZHs4Ofp0laA.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      10765,
+      35
+    ],
+    "id": 37606,
+    "origin_country": [
+      "DE",
+      "IE",
+      "GB",
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Amazing World of Gumball",
+    "overview": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive brother, and best friend Darwin Watterson, he frequently finds himself involved in various shenanigans around the city, during which he interacts with various family members: Anais, Richard, and Nicole Watterson, and other various citizens.",
+    "popularity": 26.5612,
+    "poster_path": "/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
+    "first_air_date": "2011-05-03",
+    "name": "The Amazing World of Gumball",
+    "vote_average": 8.5,
+    "vote_count": 1651
   },
   {
-    adult: false,
-    backdrop_path: '/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg',
-    genre_ids: [ 35, 10751 ],
-    id: 2352,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Nanny',
-    overview: 'Fran, fresh out of her job as a bridal consultant in her boyfriend’s shop, first appears on the doorstep of Broadway producer Maxwell Sheffield peddling cosmetics, and quickly stumbled upon the opportunity to become The Nanny for his three children. But soon Fran, with her offbeat nurturing and no-nonsense honesty, touches Maxwell as well as the kids.',
-    popularity: 26.9586,
-    poster_path: '/4syShXMjaPAP3mG81ekhruv94sd.jpg',
-    first_air_date: '1993-11-03',
-    name: 'The Nanny',
-    vote_average: 8.078,
-    vote_count: 1229
+    "adult": false,
+    "backdrop_path": "/hCUOckGQ4WnYRoCPFSTdxxErnr7.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 2352,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Nanny",
+    "overview": "Fran, fresh out of her job as a bridal consultant in her boyfriend’s shop, first appears on the doorstep of Broadway producer Maxwell Sheffield peddling cosmetics, and quickly stumbled upon the opportunity to become The Nanny for his three children. But soon Fran, with her offbeat nurturing and no-nonsense honesty, touches Maxwell as well as the kids.",
+    "popularity": 26.9586,
+    "poster_path": "/4syShXMjaPAP3mG81ekhruv94sd.jpg",
+    "first_air_date": "1993-11-03",
+    "name": "The Nanny",
+    "vote_average": 8.078,
+    "vote_count": 1229
   },
   {
-    adult: false,
-    backdrop_path: '/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg',
-    genre_ids: [ 10764, 10751 ],
-    id: 2912,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Jeopardy!',
-    overview: "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
-    popularity: 27.19,
-    poster_path: '/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg',
-    first_air_date: '1984-09-10',
-    name: 'Jeopardy!',
-    vote_average: 6.9,
-    vote_count: 150
+    "adult": false,
+    "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+    "genre_ids": [
+      10764,
+      10751
+    ],
+    "id": 2912,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Jeopardy!",
+    "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+    "popularity": 27.19,
+    "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+    "first_air_date": "1984-09-10",
+    "name": "Jeopardy!",
+    "vote_average": 6.9,
+    "vote_count": 150
   },
   {
-    adult: false,
-    backdrop_path: '/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg',
-    genre_ids: [ 35, 10751, 18 ],
-    id: 52,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: "That '70s Show",
-    overview: 'Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric’s basement, life in the ‘70s isn’t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they’ve learned one thing for sure: they’ll always get by with a little help from their friends.',
-    popularity: 26.5709,
-    poster_path: '/laEZvTqM80UaplUaDSCCbWhlyEV.jpg',
-    first_air_date: '1998-08-23',
-    name: "That '70s Show",
-    vote_average: 7.941,
-    vote_count: 1512
+    "adult": false,
+    "backdrop_path": "/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      18
+    ],
+    "id": 52,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "That '70s Show",
+    "overview": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric’s basement, life in the ‘70s isn’t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they’ve learned one thing for sure: they’ll always get by with a little help from their friends.",
+    "popularity": 26.5709,
+    "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+    "first_air_date": "1998-08-23",
+    "name": "That '70s Show",
+    "vote_average": 7.941,
+    "vote_count": 1512
   }
 ]

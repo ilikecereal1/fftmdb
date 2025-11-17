@@ -1,322 +1,436 @@
 [
   {
-    adult: false,
-    backdrop_path: '/yXSzo0VU1Q1QaB7Xg5Hqe4tXXA3.jpg',
-    genre_ids: [ 18, 80 ],
-    id: 1396,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Breaking Bad',
-    overview: "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-    popularity: 133.8995,
-    poster_path: '/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg',
-    first_air_date: '2008-01-20',
-    name: 'Breaking Bad',
-    vote_average: 8.935,
-    vote_count: 16525
+    "adult": false,
+    "backdrop_path": "/yXSzo0VU1Q1QaB7Xg5Hqe4tXXA3.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 1396,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Breaking Bad",
+    "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+    "popularity": 133.8995,
+    "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "first_air_date": "2008-01-20",
+    "name": "Breaking Bad",
+    "vote_average": 8.935,
+    "vote_count": 16525
   },
   {
-    adult: false,
-    backdrop_path: '/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg',
-    genre_ids: [ 80, 18, 9648 ],
-    id: 2734,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Law & Order: Special Victims Unit',
-    overview: 'In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.',
-    popularity: 147.6133,
-    poster_path: '/iofokHZoUB4Qhik4PflvJl8TT6a.jpg',
-    first_air_date: '1999-09-20',
-    name: 'Law & Order: Special Victims Unit',
-    vote_average: 7.937,
-    vote_count: 4051
+    "adult": false,
+    "backdrop_path": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 2734,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Law & Order: Special Victims Unit",
+    "overview": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+    "popularity": 147.6133,
+    "poster_path": "/iofokHZoUB4Qhik4PflvJl8TT6a.jpg",
+    "first_air_date": "1999-09-20",
+    "name": "Law & Order: Special Victims Unit",
+    "vote_average": 7.937,
+    "vote_count": 4051
   },
   {
-    adult: false,
-    backdrop_path: '/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg',
-    genre_ids: [ 80, 18, 10759 ],
-    id: 4614,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'NCIS',
-    overview: 'From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.',
-    popularity: 128.9449,
-    poster_path: '/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg',
-    first_air_date: '2003-09-23',
-    name: 'NCIS',
-    vote_average: 7.621,
-    vote_count: 2414
+    "adult": false,
+    "backdrop_path": "/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+    "genre_ids": [
+      80,
+      18,
+      10759
+    ],
+    "id": 4614,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "NCIS",
+    "overview": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+    "popularity": 128.9449,
+    "poster_path": "/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+    "first_air_date": "2003-09-23",
+    "name": "NCIS",
+    "vote_average": 7.621,
+    "vote_count": 2414
   },
   {
-    adult: false,
-    backdrop_path: '/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg',
-    genre_ids: [ 80, 18, 35 ],
-    id: 153312,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Tulsa King',
-    overview: 'New York mafia capo Dwight "The General" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.',
-    popularity: 125.9942,
-    poster_path: '/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg',
-    first_air_date: '2022-11-13',
-    name: 'Tulsa King',
-    vote_average: 8.3,
-    vote_count: 2380
+    "adult": false,
+    "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "id": 153312,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Tulsa King",
+    "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+    "popularity": 125.9942,
+    "poster_path": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+    "first_air_date": "2022-11-13",
+    "name": "Tulsa King",
+    "vote_average": 8.3,
+    "vote_count": 2380
   },
   {
-    adult: false,
-    backdrop_path: '/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg',
-    genre_ids: [ 80, 18, 35 ],
-    id: 79744,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Rookie',
-    overview: "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-    popularity: 129.2727,
-    poster_path: '/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg',
-    first_air_date: '2018-10-16',
-    name: 'The Rookie',
-    vote_average: 8.526,
-    vote_count: 2755
+    "adult": false,
+    "backdrop_path": "/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+    "genre_ids": [
+      80,
+      18,
+      35
+    ],
+    "id": 79744,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Rookie",
+    "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+    "popularity": 129.2727,
+    "poster_path": "/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+    "first_air_date": "2018-10-16",
+    "name": "The Rookie",
+    "vote_average": 8.526,
+    "vote_count": 2755
   },
   {
-    adult: false,
-    backdrop_path: '/aSGSxGMTP893DPMCvMl9AdnEICE.jpg',
-    genre_ids: [ 80, 18, 9648 ],
-    id: 1405,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Dexter',
-    overview: 'Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.',
-    popularity: 119.4822,
-    poster_path: '/q8dWfc4JwQuv3HayIZeO84jAXED.jpg',
-    first_air_date: '2006-10-01',
-    name: 'Dexter',
-    vote_average: 8.223,
-    vote_count: 5050
+    "adult": false,
+    "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 1405,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Dexter",
+    "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+    "popularity": 119.4822,
+    "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "first_air_date": "2006-10-01",
+    "name": "Dexter",
+    "vote_average": 8.223,
+    "vote_count": 5050
   },
   {
-    adult: false,
-    backdrop_path: '/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg',
-    genre_ids: [ 80, 18 ],
-    id: 549,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Law & Order',
-    overview: "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    popularity: 104.282,
-    poster_path: '/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg',
-    first_air_date: '1990-09-13',
-    name: 'Law & Order',
-    vote_average: 7.375,
-    vote_count: 644
+    "adult": false,
+    "backdrop_path": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 549,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "popularity": 104.282,
+    "poster_path": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+    "first_air_date": "1990-09-13",
+    "name": "Law & Order",
+    "vote_average": 7.375,
+    "vote_count": 644
   },
   {
-    adult: false,
-    backdrop_path: '/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg',
-    genre_ids: [ 80, 18, 9648 ],
-    id: 5920,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Mentalist',
-    overview: 'Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at "reading" people to solve serious crimes with the California Bureau of Investigation.',
-    popularity: 92.6347,
-    poster_path: '/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg',
-    first_air_date: '2008-09-23',
-    name: 'The Mentalist',
-    vote_average: 8.358,
-    vote_count: 4060
+    "adult": false,
+    "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 5920,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Mentalist",
+    "overview": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+    "popularity": 92.6347,
+    "poster_path": "/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg",
+    "first_air_date": "2008-09-23",
+    "name": "The Mentalist",
+    "vote_average": 8.358,
+    "vote_count": 4060
   },
   {
-    adult: false,
-    backdrop_path: '/goDtZCB5pFIuuSfYDvApe6iXTID.jpg',
-    genre_ids: [ 80, 18 ],
-    id: 32692,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Blue Bloods',
-    overview: 'A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.',
-    popularity: 77.793,
-    poster_path: '/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg',
-    first_air_date: '2010-09-24',
-    name: 'Blue Bloods',
-    vote_average: 7.794,
-    vote_count: 962
+    "adult": false,
+    "backdrop_path": "/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 32692,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Blue Bloods",
+    "overview": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+    "popularity": 77.793,
+    "poster_path": "/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+    "first_air_date": "2010-09-24",
+    "name": "Blue Bloods",
+    "vote_average": 7.794,
+    "vote_count": 962
   },
   {
-    adult: false,
-    backdrop_path: '/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg',
-    genre_ids: [ 80, 18, 9648 ],
-    id: 4057,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Criminal Minds',
-    overview: "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
-    popularity: 93.513,
-    poster_path: '/gigxjNnACiXAfrwoMox5WJFgc0I.jpg',
-    first_air_date: '2005-09-22',
-    name: 'Criminal Minds',
-    vote_average: 8.306,
-    vote_count: 3951
+    "adult": false,
+    "backdrop_path": "/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 4057,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Criminal Minds",
+    "overview": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+    "popularity": 93.513,
+    "poster_path": "/gigxjNnACiXAfrwoMox5WJFgc0I.jpg",
+    "first_air_date": "2005-09-22",
+    "name": "Criminal Minds",
+    "vote_average": 8.306,
+    "vote_count": 3951
   },
   {
-    adult: false,
-    backdrop_path: '/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg',
-    genre_ids: [ 80, 18, 9648 ],
-    id: 764,
-    origin_country: [ 'GB' ],
-    original_language: 'en',
-    original_name: 'Midsomer Murders',
-    overview: 'The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ',
-    popularity: 81.5802,
-    poster_path: '/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg',
-    first_air_date: '1997-03-23',
-    name: 'Midsomer Murders',
-    vote_average: 7.485,
-    vote_count: 333
+    "adult": false,
+    "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 764,
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_name": "Midsomer Murders",
+    "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+    "popularity": 81.5802,
+    "poster_path": "/31wojXBSLT6LYTUMyc6BiyXqUyP.jpg",
+    "first_air_date": "1997-03-23",
+    "name": "Midsomer Murders",
+    "vote_average": 7.485,
+    "vote_count": 333
   },
   {
-    adult: false,
-    backdrop_path: '/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg',
-    genre_ids: [ 18, 80, 9648 ],
-    id: 46952,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Blacklist',
-    overview: `Raymond "Red" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this "The Blacklist". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.`,
-    popularity: 80.0923,
-    poster_path: '/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg',
-    first_air_date: '2013-09-23',
-    name: 'The Blacklist',
-    vote_average: 7.641,
-    vote_count: 3411
+    "adult": false,
+    "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+    "genre_ids": [
+      18,
+      80,
+      9648
+    ],
+    "id": 46952,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Blacklist",
+    "overview": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+    "popularity": 80.0923,
+    "poster_path": "/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+    "first_air_date": "2013-09-23",
+    "name": "The Blacklist",
+    "vote_average": 7.641,
+    "vote_count": 3411
   },
   {
-    adult: false,
-    backdrop_path: '/zo66p6fzHOW8Zkqf6F63LwY1k7W.jpg',
-    genre_ids: [ 80, 18 ],
-    id: 221079,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Last Frontier',
-    overview: "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
-    popularity: 73.5,
-    poster_path: '/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg',
-    first_air_date: '2025-10-09',
-    name: 'The Last Frontier',
-    vote_average: 7.425,
-    vote_count: 80
+    "adult": false,
+    "backdrop_path": "/zo66p6fzHOW8Zkqf6F63LwY1k7W.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 221079,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Last Frontier",
+    "overview": "When a prison transport plane crashes in the remote Alaskan wilderness—freeing dozens of violent inmates—the region's lone marshal must protect the town he's vowed to keep safe.",
+    "popularity": 73.5,
+    "poster_path": "/4S2gS1mECZ5wDRBVAZE6KWmJHI3.jpg",
+    "first_air_date": "2025-10-09",
+    "name": "The Last Frontier",
+    "vote_average": 7.425,
+    "vote_count": 80
   },
   {
-    adult: false,
-    backdrop_path: '/4AXxajuAz9tHAOe6h5zDg8z1X2s.jpg',
-    genre_ids: [ 80, 18 ],
-    id: 1911,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Bones',
-    overview: "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
-    popularity: 71.2331,
-    poster_path: '/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg',
-    first_air_date: '2005-09-13',
-    name: 'Bones',
-    vote_average: 8.205,
-    vote_count: 3351
+    "adult": false,
+    "backdrop_path": "/4AXxajuAz9tHAOe6h5zDg8z1X2s.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1911,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Bones",
+    "overview": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+    "popularity": 71.2331,
+    "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+    "first_air_date": "2005-09-13",
+    "name": "Bones",
+    "vote_average": 8.205,
+    "vote_count": 3351
   },
   {
-    adult: false,
-    backdrop_path: '/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg',
-    genre_ids: [ 80, 18, 9648 ],
-    id: 1431,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'CSI: Crime Scene Investigation',
-    overview: 'A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.',
-    popularity: 67.5458,
-    poster_path: '/i5hmoRjHNWady4AtAGICTUXknKH.jpg',
-    first_air_date: '2000-10-06',
-    name: 'CSI: Crime Scene Investigation',
-    vote_average: 7.636,
-    vote_count: 1324
+    "adult": false,
+    "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648
+    ],
+    "id": 1431,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "CSI: Crime Scene Investigation",
+    "overview": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+    "popularity": 67.5458,
+    "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+    "first_air_date": "2000-10-06",
+    "name": "CSI: Crime Scene Investigation",
+    "vote_average": 7.636,
+    "vote_count": 1324
   },
   {
-    adult: false,
-    backdrop_path: '/be6mDIMv7cg8duWkcYVnTB8rphO.jpg',
-    genre_ids: [ 10759, 18, 80 ],
-    id: 1973,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: '24',
-    overview: `Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, "24" covers a single day in the life of Bauer each season.`,
-    popularity: 63.8091,
-    poster_path: '/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg',
-    first_air_date: '2001-11-06',
-    name: '24',
-    vote_average: 7.793,
-    vote_count: 1670
+    "adult": false,
+    "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+    "genre_ids": [
+      10759,
+      18,
+      80
+    ],
+    "id": 1973,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "24",
+    "overview": "Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, \"24\" covers a single day in the life of Bauer each season.",
+    "popularity": 63.8091,
+    "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+    "first_air_date": "2001-11-06",
+    "name": "24",
+    "vote_average": 7.793,
+    "vote_count": 1670
   },
   {
-    adult: false,
-    backdrop_path: '/8b5yXvmWSOl64Abk1wMYhzs4OnP.jpg',
-    genre_ids: [ 9648, 80, 18, 10759 ],
-    id: 211089,
-    origin_country: [ 'CN' ],
-    original_language: 'zh',
-    original_name: '唐朝诡事录',
-    overview: 'General Lu Lingfeng and Detective Su Wuming uncover supernatural mysteries and hidden conspiracies threatening the empire during Emperor Xuanzong’s reign.',
-    popularity: 56.4456,
-    poster_path: '/nyhBueT07zQS7wWLYFDNO8LdO3N.jpg',
-    first_air_date: '2022-09-27',
-    name: 'Strange Tales of Tang Dynasty',
-    vote_average: 8.2,
-    vote_count: 33
+    "adult": false,
+    "backdrop_path": "/8b5yXvmWSOl64Abk1wMYhzs4OnP.jpg",
+    "genre_ids": [
+      9648,
+      80,
+      18,
+      10759
+    ],
+    "id": 211089,
+    "origin_country": [
+      "CN"
+    ],
+    "original_language": "zh",
+    "original_name": "唐朝诡事录",
+    "overview": "General Lu Lingfeng and Detective Su Wuming uncover supernatural mysteries and hidden conspiracies threatening the empire during Emperor Xuanzong’s reign.",
+    "popularity": 56.4456,
+    "poster_path": "/nyhBueT07zQS7wWLYFDNO8LdO3N.jpg",
+    "first_air_date": "2022-09-27",
+    "name": "Strange Tales of Tang Dynasty",
+    "vote_average": 8.2,
+    "vote_count": 33
   },
   {
-    adult: false,
-    backdrop_path: '/ncftkNAjIz2PBbUMY7T0CHVJP8d.jpg',
-    genre_ids: [ 80, 10765 ],
-    id: 63174,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'Lucifer',
-    overview: "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
-    popularity: 61.9171,
-    poster_path: '/ekZobS8isE6mA53RAiGDG93hBxL.jpg',
-    first_air_date: '2016-01-25',
-    name: 'Lucifer',
-    vote_average: 8.441,
-    vote_count: 15184
+    "adult": false,
+    "backdrop_path": "/ncftkNAjIz2PBbUMY7T0CHVJP8d.jpg",
+    "genre_ids": [
+      80,
+      10765
+    ],
+    "id": 63174,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "Lucifer",
+    "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+    "popularity": 61.9171,
+    "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+    "first_air_date": "2016-01-25",
+    "name": "Lucifer",
+    "vote_average": 8.441,
+    "vote_count": 15184
   },
   {
-    adult: false,
-    backdrop_path: '/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg',
-    genre_ids: [ 80, 10759, 18 ],
-    id: 71790,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'S.W.A.T.',
-    overview: 'A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn between loyalty to the streets, where the cops are sometimes the enemy, and allegiance to his brothers in blue, he strategically straddles the two worlds.',
-    popularity: 54.5882,
-    poster_path: '/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg',
-    first_air_date: '2017-11-02',
-    name: 'S.W.A.T.',
-    vote_average: 8.055,
-    vote_count: 1514
+    "adult": false,
+    "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+    "genre_ids": [
+      80,
+      10759,
+      18
+    ],
+    "id": 71790,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "S.W.A.T.",
+    "overview": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn between loyalty to the streets, where the cops are sometimes the enemy, and allegiance to his brothers in blue, he strategically straddles the two worlds.",
+    "popularity": 54.5882,
+    "poster_path": "/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
+    "first_air_date": "2017-11-02",
+    "name": "S.W.A.T.",
+    "vote_average": 8.055,
+    "vote_count": 1514
   },
   {
-    adult: false,
-    backdrop_path: '/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg',
-    genre_ids: [ 80, 18 ],
-    id: 1398,
-    origin_country: [ 'US' ],
-    original_language: 'en',
-    original_name: 'The Sopranos',
-    overview: "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
-    popularity: 55.7317,
-    poster_path: '/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg',
-    first_air_date: '1999-01-10',
-    name: 'The Sopranos',
-    vote_average: 8.65,
-    vote_count: 3176
+    "adult": false,
+    "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 1398,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "The Sopranos",
+    "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+    "popularity": 55.7317,
+    "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+    "first_air_date": "1999-01-10",
+    "name": "The Sopranos",
+    "vote_average": 8.65,
+    "vote_count": 3176
   }
 ]
