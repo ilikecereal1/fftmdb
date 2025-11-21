@@ -1,6 +1,101 @@
 [
   {
     "adult": false,
+    "backdrop_path": "/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 278,
+    "original_language": "en",
+    "original_title": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "popularity": 25.0494,
+    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "release_date": "1994-09-23",
+    "title": "The Shawshank Redemption",
+    "video": false,
+    "vote_average": 8.711,
+    "vote_count": 29207
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jdHsptJbtalEuVhCV5i7kSC3g0x.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 238,
+    "original_language": "en",
+    "original_title": "The Godfather",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "popularity": 23.8597,
+    "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "release_date": "1972-03-24",
+    "title": "The Godfather",
+    "video": false,
+    "vote_average": 8.684,
+    "vote_count": 22064
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 240,
+    "original_language": "en",
+    "original_title": "The Godfather Part II",
+    "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "popularity": 13.3744,
+    "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+    "release_date": "1974-12-20",
+    "title": "The Godfather Part II",
+    "video": false,
+    "vote_average": 8.571,
+    "vote_count": 13336
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "id": 424,
+    "original_language": "en",
+    "original_title": "Schindler's List",
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "popularity": 11.2966,
+    "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "release_date": "1993-12-15",
+    "title": "Schindler's List",
+    "video": false,
+    "vote_average": 8.565,
+    "vote_count": 16857
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tj6iPnz18hGfr0LKqWmG6Cp3niO.jpg",
+    "genre_ids": [
+      18
+    ],
+    "id": 389,
+    "original_language": "en",
+    "original_title": "12 Angry Men",
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "popularity": 9.6894,
+    "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+    "release_date": "1957-04-10",
+    "title": "12 Angry Men",
+    "video": false,
+    "vote_average": 8.549,
+    "vote_count": 9524
+  },
+  {
+    "adult": false,
     "backdrop_path": "/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
     "genre_ids": [
       16,
@@ -82,6 +177,26 @@
   },
   {
     "adult": false,
+    "backdrop_path": "/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "genre_ids": [
+      35,
+      53,
+      18
+    ],
+    "id": 496243,
+    "original_language": "ko",
+    "original_title": "기생충",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "popularity": 17.7531,
+    "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "release_date": "2019-10-11",
+    "title": "Parasite",
+    "video": false,
+    "vote_average": 8.496,
+    "vote_count": 19705
+  },
+  {
+    "adult": false,
     "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
     "genre_ids": [
       12,
@@ -99,6 +214,26 @@
     "video": false,
     "vote_average": 8.49,
     "vote_count": 25657
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "genre_ids": [
+      53,
+      80,
+      35
+    ],
+    "id": 680,
+    "original_language": "en",
+    "original_title": "Pulp Fiction",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "popularity": 17.419,
+    "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "release_date": "1994-10-14",
+    "title": "Pulp Fiction",
+    "video": false,
+    "vote_average": 8.488,
+    "vote_count": 29274
   },
   {
     "adult": false,
