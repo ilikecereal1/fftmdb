@@ -1,0 +1,46 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/camppromobackdrop.png",
+    "genre_ids": [
+      10764,
+      10763,
+      9648
+    ],
+    "id": 1,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "CUCF Camp Promo Video 2025/26",
+    "overview": "A short promotional video for the CUCF 2025/26: Waymaker Camp.",
+    "popularity": 269.6247,
+    "poster_path": "/camppromoposter.jpg",
+    "first_air_date": "2025-09-25",
+    "name": "CUCF Camp Promo Video 2025/26",
+    "vote_average": 10,
+    "vote_count": 18990
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lscupromovideo.png",
+    "genre_ids": [
+      10767,
+      10763,
+      99
+    ],
+    "id": 2,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_name": "LSCU Promo Video 2025/26",
+    "overview": "A short promotional video for Lower Secondary Christian Union.",
+    "popularity": 269.6247,
+    "poster_path": "!lscupromoposter.jpg",
+    "first_air_date": "2025-08-13",
+    "name": "LSCU Promo Video 2025/26",
+    "vote_average": 10,
+    "vote_count": 18990
+  }
+]
