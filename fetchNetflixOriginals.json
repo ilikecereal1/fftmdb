@@ -2,37 +2,25 @@
   {
     "adult": false,
     "backdrop_path": "/!camppromobackdrop.png",
-    "genre_ids": [
-      10764,
-      10763,
-      9648
-    ],
+    "genre_ids": [10764, 10763, 9648],
     "id": 1,
-    "origin_country": [
-      "US"
-    ],
+    "origin_country": ["US"],
     "original_language": "en",
-    "original_name": "CUCF Camp Promo Video 2025/26",
-    "overview": "A short promotional video for the CUCF 2025/26: Waymaker Camp.",
+    "original_name": "Waymaker: CUCF Camp 2025/26",
+    "overview": "A short recap documentary video for the CUCF 2025/26: Waymaker Camp.",
     "popularity": 269.6247,
     "poster_path": "/!camppromoposter.jpg",
     "first_air_date": "2025-09-25",
-    "name": "CUCF Camp Promo Video 2025/26",
+    "name": "Waymaker: CUCF Camp 2025/26",
     "vote_average": 10,
     "vote_count": 18990
   },
   {
     "adult": false,
     "backdrop_path": "/!lscupromovideo.png",
-    "genre_ids": [
-      10767,
-      10763,
-      99
-    ],
+    "genre_ids": [10767, 10763, 99],
     "id": 2,
-    "origin_country": [
-      "US"
-    ],
+    "origin_country": ["US"],
     "original_language": "en",
     "original_name": "LSCU Promo Video 2025/26",
     "overview": "A short promotional video for Lower Secondary Christian Union.",
@@ -42,5 +30,68 @@
     "name": "LSCU Promo Video 2025/26",
     "vote_average": 10,
     "vote_count": 18990
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "genre_ids": [10762, 35],
+    "id": 502,
+    "origin_country": ["US"],
+    "original_language": "en",
+    "original_name": "Sesame Street",
+    "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+    "popularity": 41.8192,
+    "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "first_air_date": "1969-11-10",
+    "name": "Sesame Street",
+    "vote_average": 7.1,
+    "vote_count": 271
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+    "genre_ids": [16, 10749, 18],
+    "id": 372058,
+    "original_language": "ja",
+    "original_title": "君の名は。",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "popularity": 22.4341,
+    "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "release_date": "2017-04-07",
+    "title": "Your Name.",
+    "video": false,
+    "vote_average": 8.479,
+    "vote_count": 12099
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+    "genre_ids": [10759, 18, 10765],
+    "id": 57243,
+    "origin_country": ["GB"],
+    "original_language": "en",
+    "original_name": "Doctor Who",
+    "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+    "popularity": 53.4592,
+    "poster_path": "/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+    "first_air_date": "2005-03-26",
+    "name": "Doctor Who",
+    "vote_average": 7.572
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+    "genre_ids": [878, 12, 28],
+    "id": 1234821,
+    "original_language": "en",
+    "original_title": "Jurassic World Rebirth",
+    "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "popularity": 57.7943,
+    "poster_path": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "release_date": "2025-07-01",
+    "title": "Jurassic World Rebirth",
+    "video": false,
+    "vote_average": 6.382,
+    "vote_count": 2488
   }
 ]
