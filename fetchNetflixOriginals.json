@@ -17,7 +17,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/!lscupromobackdrop.jpg",
+    "backdrop_path": "/!cupromobackdrop.jpg",
     "genre_ids": [10767, 10763, 99],
     "id": 2,
     "origin_country": ["US"],
