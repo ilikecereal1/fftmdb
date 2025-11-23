@@ -7,7 +7,7 @@
     "origin_country": ["US"],
     "original_language": "en",
     "original_name": "Waymaker: CUCF Camp 2025/26",
-    "overview": "A short recap documentary video for the CUCF 2025/26: Waymaker Camp.",
+    "overview": "Three days, three speakers, twenty-one teachers, two hundred students, the Presence of the living God. Watch the epic tale of how we found our way to the ultimate Waymaker.",
     "popularity": 269.6247,
     "poster_path": "/!camppromoposter.jpg",
     "first_air_date": "2025-09-25",
@@ -17,7 +17,7 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/!lscupromovideo.png",
+    "backdrop_path": "/!lscupromobackdrop.jpg",
     "genre_ids": [10767, 10763, 99],
     "id": 2,
     "origin_country": ["US"],
